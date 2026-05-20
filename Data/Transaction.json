@@ -1,0 +1,9 @@
+{"transaction_id":1001,"account_id":"ACC1001","customer_name":"Rahul Sharma","city":"Delhi","transaction_type":"UPI","amount":4500,"transaction_status":"SUCCESS","transaction_time":"2025-01-01 10:00:00"}
+
+{"transaction_id":1002,"account_id":"ACC1002","customer_name":"Priya Singh","city":"Mumbai","transaction_type":"NEFT","amount":85000,"transaction_status":"SUCCESS","transaction_time":"2025-01-01 10:01:00"}
+
+{"transaction_id":1003,"account_id":"ACC1003","customer_name":"Aman Verma","city":"Bangalore","transaction_type":"IMPS","amount":1200000,"transaction_status":"SUCCESS","transaction_time":"2025-01-01 10:02:00"}
+
+{"transaction_id":1004,"account_id":"ACC1004","customer_name":"Sneha Kapoor","city":"Hyderabad","transaction_type":"UPI","amount":2000,"transaction_status":"FAILED","transaction_time":"2025-01-01 10:03:00"}
+
+{"transaction_id":1005,"account_id":"ACC1005","customer_name":"Rohit Mehta","city":"Pune","transaction_type":"RTGS","amount":2500000,"transaction_status":"SUCCESS","transaction_time":"2025-01-01 10:04:00"}
