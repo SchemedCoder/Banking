@@ -1,0 +1,39 @@
+{"customer_id":501,"account_id":"ACC1001","customer_name":"Rahul Sharma","city":"Delhi","account_type":"Savings","kyc_status":"Verified","risk_category":"Low","account_open_date":"2020-05-10","mobile_number":"9876543210"}
+
+{"customer_id":502,"account_id":"ACC1002","customer_name":"Priya Singh","city":"Mumbai","account_type":"Current","kyc_status":"Verified","risk_category":"Medium","account_open_date":"2019-03-15","mobile_number":"9876543211"}
+
+{"customer_id":503,"account_id":"ACC1003","customer_name":"Aman Verma","city":"Bangalore","account_type":"Savings","kyc_status":"Pending","risk_category":"High","account_open_date":"2021-01-20","mobile_number":"9876543212"}
+
+{"customer_id":504,"account_id":"ACC1004","customer_name":"Sneha Kapoor","city":"Hyderabad","account_type":"Salary","kyc_status":"Verified","risk_category":"Low","account_open_date":"2022-07-11","mobile_number":"9876543213"}
+
+{"customer_id":505,"account_id":"ACC1005","customer_name":"Rohit Mehta","city":"Pune","account_type":"Savings","kyc_status":"Verified","risk_category":"Medium","account_open_date":"2018-09-01","mobile_number":"9876543214"}
+
+{"customer_id":506,"account_id":"ACC1006","customer_name":"Anjali Gupta","city":"Chennai","account_type":"Current","kyc_status":"Pending","risk_category":"High","account_open_date":"2020-11-25","mobile_number":"9876543215"}
+
+{"customer_id":507,"account_id":"ACC1007","customer_name":"Karan Malhotra","city":"Noida","account_type":"Savings","kyc_status":"Verified","risk_category":"Low","account_open_date":"2017-04-30","mobile_number":"9876543216"}
+
+{"customer_id":508,"account_id":"ACC1008","customer_name":"Neha Jain","city":"Gurgaon","account_type":"Salary","kyc_status":"Verified","risk_category":"Medium","account_open_date":"2023-02-18","mobile_number":"9876543217"}
+
+{"customer_id":509,"account_id":"ACC1009","customer_name":"Vikas Arora","city":"Kolkata","account_type":"Savings","kyc_status":"Pending","risk_category":"High","account_open_date":"2021-08-08","mobile_number":"9876543218"}
+
+{"customer_id":510,"account_id":"ACC1010","customer_name":"Pooja Nair","city":"Ahmedabad","account_type":"Current","kyc_status":"Verified","risk_category":"Low","account_open_date":"2019-12-19","mobile_number":"9876543219"}
+
+{"customer_id":511,"account_id":"ACC1011","customer_name":"Arjun Reddy","city":"Hyderabad","account_type":"Savings","kyc_status":"Verified","risk_category":"Medium","account_open_date":"2020-06-15","mobile_number":"9876543220"}
+
+{"customer_id":512,"account_id":"ACC1012","customer_name":"Simran Kaur","city":"Delhi","account_type":"Salary","kyc_status":"Pending","risk_category":"High","account_open_date":"2022-03-21","mobile_number":"9876543221"}
+
+{"customer_id":513,"account_id":"ACC1013","customer_name":"Yash Patel","city":"Mumbai","account_type":"Savings","kyc_status":"Verified","risk_category":"Low","account_open_date":"2018-10-10","mobile_number":"9876543222"}
+
+{"customer_id":514,"account_id":"ACC1014","customer_name":"Meera Iyer","city":"Bangalore","account_type":"Current","kyc_status":"Verified","risk_category":"Medium","account_open_date":"2021-12-01","mobile_number":"9876543223"}
+
+{"customer_id":515,"account_id":"ACC1015","customer_name":"Nikhil Sinha","city":"Pune","account_type":"Savings","kyc_status":"Pending","risk_category":"High","account_open_date":"2023-05-05","mobile_number":"9876543224"}
+
+{"customer_id":516,"account_id":"ACC1016","customer_name":"Ritika Sharma","city":"Chennai","account_type":"Salary","kyc_status":"Verified","risk_category":"Low","account_open_date":"2019-07-14","mobile_number":"9876543225"}
+
+{"customer_id":517,"account_id":"ACC1017","customer_name":"Harsh Agarwal","city":"Noida","account_type":"Current","kyc_status":"Verified","risk_category":"Medium","account_open_date":"2020-09-09","mobile_number":"9876543226"}
+
+{"customer_id":518,"account_id":"ACC1018","customer_name":"Tanya Bhatia","city":"Gurgaon","account_type":"Savings","kyc_status":"Pending","risk_category":"High","account_open_date":"2022-01-11","mobile_number":"9876543227"}
+
+{"customer_id":519,"account_id":"ACC1019","customer_name":"Deepak Joshi","city":"Kolkata","account_type":"Salary","kyc_status":"Verified","risk_category":"Low","account_open_date":"2017-06-17","mobile_number":"9876543228"}
+
+{"customer_id":520,"account_id":"ACC1020","customer_name":"Ishita Roy","city":"Ahmedabad","account_type":"Savings","kyc_status":"Verified","risk_category":"Medium","account_open_date":"2021-04-04","mobile_number":"9876543229"}
